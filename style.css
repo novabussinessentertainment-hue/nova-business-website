@@ -4,7 +4,7 @@ body {
     color: white;
     font-family: Arial, sans-serif;
     text-align: center;
-    padding-top: 150px;
+    
 }
 
 h1 {
@@ -648,21 +648,7 @@ p {
     }
 }
 
-.whatsapp-button {
-    display: inline-block;
-    padding: 14px 25px;
-    background: #25D366;
-    color: #ffffff;
-    text-decoration: none;
-    border-radius: 8px;
-    font-weight: bold;
-    transition: 0.3s;
-}
 
-.whatsapp-button:hover {
-    background: #1da851;
-    transform: translateY(-3px);
-}
 .whatsapp-button {
     display: inline-flex;
     align-items: center;
